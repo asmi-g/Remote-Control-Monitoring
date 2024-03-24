@@ -1,4 +1,4 @@
-# Remote-Control-Monitoring 
+# Remote Control Monitoring System 
 
 #### Description
 * Implements real-time communication between an ESP32 w/ on on-board camera, and a Telegram Bot API, using peripherals like a PIR sensor for motion detection, a DHT11 Temperature & Humidity Sensor for data collection, and the ESP32-CAM for picture 
